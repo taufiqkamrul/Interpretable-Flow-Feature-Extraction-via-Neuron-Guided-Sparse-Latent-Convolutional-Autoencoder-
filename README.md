@@ -294,11 +294,11 @@ If you use this code in your research, please cite appropriately.
 
 ## License
 
-[Specify your license here]
+[This project is licensed under the MIT License - see the LICENSE file for details.]
 
 ## Contact
 
-[Your contact information]
+[taufiqkamrul@gmail.com]
 
 ## Acknowledgments
 
